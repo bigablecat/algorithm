@@ -34,7 +34,7 @@
 		* 访问地址：  
 			https://www.bilibili.com/video/BV1Zt411o7Rn  
 	
-* 2) 尚硅谷Java数据结构与java算法（Java数据结构与算法）  
+	* 2) 尚硅谷Java数据结构与java算法（Java数据结构与算法）  
 		* 访问地址  
 			https://www.bilibili.com/video/BV1E4411H73v  
 	
